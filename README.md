@@ -22,3 +22,26 @@ You will need to implement the following functions:
 - last() - This should return the last ranked location in the list.
 
 Initially the given code will not compile. As you complete the code, the tests should start to pass in main.cpp.
+
+Results are in test
+
+PASSED Top 10 - [0].name: expected and actual Avanti's Italian Restaurant
+PASSED Top 10 - [2].postalCode: expected and actual 39402
+PASSED Top 10 - [5].priceRangeMin: expected and actual 25
+PASSED Top 10 - [6].latitude: expected and actual 38.9106
+PASSED Location at the 10th place is in city: : expected and actual Philadelphia
+PASSED Top 50 - [10].priceRangeMax: expected and actual 40
+PASSED Top 50 - [24].address: expected and actual 1225 Route 9g
+PASSED Top 50 - [29].longitude: expected and actual -90.5517
+PASSED Top 50 - [49].name: expected and actual Morina's Italian Restaurant
+PASSED Top 200 - [199].city: expected and actual Addison
+PASSED Top 200 - [198].name: expected and actual Nordstrom The Plaza At King of Prussia
+PASSED Top 200 - [187].longitude: expected and actual -122.296
+PASSED Top 200 - [184].longitude: expected and actual -74.2123
+PASSED Top 400 - Topmost element's province: expected and actual IL
+PASSED Top 400 - [212].province: expected and actual TX
+PASSED Top 400 - [398].address: expected and actual 1424 Morris Ave
+PASSED Top 400 - [399].city: expected and actual Staten Island
+PASSED Top 400 - [399].priceRangeMin: expected and actual 31
+
+18 tests passed out of 18 total tests
